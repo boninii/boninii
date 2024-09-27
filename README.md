@@ -1,10 +1,9 @@
-<h1 align="center"> Hello there! I'm Pedro. </h1>
+<h1 align="center"> Hey there! I'm Pedro. </h1>
 
 ### About me
-📚 IFSP programming student      
-🍳 I'm 18                       <br>
-🥝 Food lover                    <br>
-📢 Portfolio ---
+📚 IFSP Programming Student      
+🍳 I'm 19                       <br>
+📢 Portfolio:
 
 ### Stats:   
 <div>
@@ -27,6 +26,5 @@
 ### Social media:
 <div>
   <a href="https://www.instagram.com/opedrobonini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-bonini-362447266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/booninii_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedroboninii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
