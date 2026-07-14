@@ -1,50 +1,50 @@
-# Hi, I'm Pedro 😎
+# Olá, eu sou o Pedro 😎
 
-### Full Stack Developer | React, Next.js & Laravel
+### Desenvolvedor Full Stack | React, Next.js & Laravel
 
-I'm a developer focused on building modern, high-performance web applications. From layout to deploy, I care about clean code and a great user experience. Currently I balance my time between professional development and shipping my own projects.
-
----
-
-## 🛠️ Tech Stack
-
-- **Backend:** PHP (Laravel), Node.js, MySQL, PostgreSQL.
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, GSAP.
-- **Tools:** Git, REST APIs, Supabase.
+Desenvolvedor focado em construir aplicações web modernas e de alta performance. Do layout ao deploy, prezo por código limpo e uma ótima experiência para o usuário. Atualmente divido meu tempo entre o trabalho profissional e o desenvolvimento dos meus próprios projetos.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tecnologias
+
+- **Back-end:** PHP (Laravel), Node.js, MySQL, PostgreSQL.
+- **Front-end:** React, Next.js, TypeScript, Tailwind CSS, GSAP.
+- **Ferramentas:** Git, APIs REST, Supabase.
+
+---
+
+## 🚀 Projetos em destaque
 
 ### [Household Wallet](https://github.com/boninii/household-wallet)
-A personal finance web app for monthly budgeting, goals, recurring expenses, financing and investments in BRL/USD.
+Aplicação web de controle financeiro pessoal: orçamento mensal, metas, recorrentes, financiamentos e investimentos em BRL/USD.
 - **Stack:** Next.js, React, TypeScript, Supabase, Tailwind.
-- **Key Feature:** Multi-user with per-user data isolation via Row Level Security.
+- **Diferencial:** Multiusuário com isolamento de dados por Row Level Security.
 
 ### [iFoodies](https://github.com/boninii/ifoodies)
-A complete platform for a technical school's canteen: a mobile app for students to order and an admin panel for the staff.
+Plataforma completa para a cantina de uma escola técnica: app mobile para os alunos pedirem e painel administrativo para a equipe gerenciar.
 - **Stack:** React Native, Expo, TypeScript, Laravel, Filament.
-- **Key Feature:** Single API and database powering both the app and the admin panel.
+- **Diferencial:** Uma única API e banco de dados servindo o app e o painel.
 
-### Lirismo Digital
-An e-book marketplace connecting authors and readers, with an approval flow, catalog, personal library and integrated payments.
+### [Lirismo Digital](https://github.com/boninii/lirismo-digital)
+Marketplace de e-books que conecta autores e leitores, com fluxo de aprovação, catálogo, estante pessoal e pagamentos integrados.
 - **Stack:** Next.js, React, TypeScript, Fastify, PostgreSQL.
 
 ---
 
-## 📌 Stats & Experience
+## 📌 Formação & Experiência
 
-- 🎓 **Education:** Information Systems @ IFSP.
-- 💼 **Current Role:** Web Developer @ Grupo DLS.
-- 🎯 **Current Focus:** Performance optimization and third-party API integrations.
-- 🗣️ **Languages:** Portuguese (native), English (advanced).
+- 🎓 **Formação:** Sistemas para Internet no IFSP.
+- 💼 **Cargo atual:** Desenvolvedor Web no Grupo DLS.
+- 🎯 **Foco atual:** Otimização de performance e integração de APIs de terceiros.
+- 🗣️ **Idiomas:** Português (nativo), Inglês (avançado).
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Vamos conversar
 
 - **LinkedIn:** [Pedro Bonini](https://www.linkedin.com/in/pedroboninii/)
 
 ---
 
-*"I build interfaces and systems that breathe."*
+*"Construo interfaces e sistemas que respiram."*
