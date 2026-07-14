@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro 😎
+# Olá, eu sou o Pedro Bonini 
 
 ### Desenvolvedor Full Stack | React, Next.js & Laravel
 
