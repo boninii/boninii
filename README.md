@@ -26,7 +26,7 @@ Plataforma completa para a cantina de uma escola técnica: app mobile para os al
 - **Stack:** React Native, Expo, TypeScript, Laravel, Filament.
 - **Diferencial:** Uma única API e banco de dados servindo o app e o painel.
 
-### Lirismo Digital
+### [Lirismo Digital](https://github.com/boninii/lirismo-digital)
 Marketplace de e-books que conecta autores e leitores, com fluxo de aprovação, catálogo, estante pessoal e pagamentos integrados.
 - **Stack:** Next.js, React, TypeScript, Fastify, PostgreSQL.
 
